@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Churn Prediction", page_icon="img/dnc.webp")
+st.set_page_config(page_title="Churn Prediction", page_icon="img/churn.webp")
 st.title("Telco Churn prediction")
 
 st.image('img/customer_churn.jpeg')
