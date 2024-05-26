@@ -1,7 +1,7 @@
 
 # Classification Churn
 
-Se trata de um classificador para prever se o cliente irá ou não se tornar um churn
+Se trata de um classificador para prever se o cliente irá ou não se tornar um churn, hospedado no streamlit
 
 ## Dicionário dos dados
 
