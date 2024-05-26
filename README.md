@@ -18,3 +18,11 @@ Features:
 ## Batch Prediction 
 
 <img width="876" alt="Batch Prediction" src="./img/batch-p.png">
+
+---
+
+<div align="center">
+<i>Contato</i><br> 
+<br>
+<a href="https://www.linkedin.com/in/vinic-costa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
