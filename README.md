@@ -1,12 +1,7 @@
 
-# Case: Classification
+# Classification Churn
 
-## Etapas:
-
-- Crie um arquivo `requirements.txt` com as bibliotecas necessárias para execução deste projeto;
-- Crie um ambiente virtual (e.g. `case_classification`);
-- Desenvolva o modelo utilizando as etapas do CRISP-DM;
-- Crie um App no Streamlit para prever o dataset `new_customers.csv`;
+Se trata de um classificador para prever se o cliente irá ou não se tornar um churn
 
 ## Dicionário dos dados
 
