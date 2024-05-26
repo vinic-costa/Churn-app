@@ -1,9 +1,20 @@
 
 # Classification Churn
 
-Se trata de um classificador para prever se o cliente irá ou não se tornar um churn, hospedado no streamlit
+Welcome to Churn APP
 
-## Dicionário dos dados
+Churn APP is your ultimate tool for predicting customer churn. Whether you're a business aiming to retain your customers or an organization seeking to analyze churn rates, our app is designed to meet your needs.
 
-O dicionário dos dados pode ser encontrado [neste link](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset).  
-[Fonte original dos dados](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113).
+Features:
+
+- Batch Predictions: For businesses and organizations, our app offers efficient batch processing, allowing you to predict churn for multiple customers at once.
+
+---
+
+## Project Description Page
+
+<img width="876" alt="project Description" src="./img/project-d.png">
+
+## Batch Prediction 
+
+<img width="876" alt="Batch Prediction" src="./img/batch-p.png">
